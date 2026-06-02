@@ -1,5 +1,1 @@
-NEOMODS 5.2
-)2+3
-hsks
-helem
-hdjd
+6.0 NEOMODS
